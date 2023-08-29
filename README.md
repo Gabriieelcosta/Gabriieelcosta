@@ -33,6 +33,8 @@
   <a href="https://www.linkedin.com/in/gabriel-de-oliveira-da-costa-0bb472224/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
+<br><br>
+
 - 🎓 Formando em Análise e Desenvolvimento de Sistemas
 - 🔭 Estou aperfeiçoando meu front-end
 - 🌱 Finalizando os estudos de HTML, CSS e JavaScript
