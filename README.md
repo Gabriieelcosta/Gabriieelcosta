@@ -1,4 +1,4 @@
-### Olá! Eu sou o Gabriel Costa 👋
+### Olá! Eu sou o Gabriel Oliveira 👋
 
 ##
 
